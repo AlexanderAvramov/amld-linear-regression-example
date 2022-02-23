@@ -1,2 +1,3 @@
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/AlexanderAvramov/amld-linear-regression-example/HEAD
+https://hub-binder.mybinder.ovh/user/alexanderavramo-ression-example-dlllv4z4/lab
+
+https://mybinder.readthedocs.io
