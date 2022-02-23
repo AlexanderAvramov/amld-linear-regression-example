@@ -1,0 +1,10 @@
+numpy==1.14.5
+quickstart-vdk
+
+# necessary for sql in jupyter
+ipython-sql
+jupyterlab_sql
+
+streamlit
+jupyter-server-proxy
+nbserverproxy
