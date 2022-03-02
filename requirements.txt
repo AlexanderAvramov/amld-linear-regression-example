@@ -1,4 +1,4 @@
-numpy==1.14.5
+numpy
 quickstart-vdk
 
 # necessary for sql in jupyter
@@ -8,3 +8,9 @@ jupyterlab_sql
 streamlit
 jupyter-server-proxy
 nbserverproxy
+
+pyarrow==7.0.0
+seaborn #seaborn==0.10.1
+matplotlib
+sklearn
+xlsxwriter
