@@ -1,9 +1,0 @@
-,coefficients,feature
-0,-3.648596366877422,intercept
-1,-0.01675923390407847,charge_level_start
-2,-0.022719294795385092,temperature_start_c
-3,0.275166739576178,distance_km
-4,-0.009527937601875956,average_speed_kmh
-5,0.3898467761633472,average_consumption_kwhkm
-6,0.4415780374443493,heated_seats
-7,0.11657043062189647,eco_mode

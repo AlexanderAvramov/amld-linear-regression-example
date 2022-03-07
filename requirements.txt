@@ -10,7 +10,7 @@ jupyter-server-proxy
 nbserverproxy
 
 pyarrow==7.0.0
-seaborn #seaborn==0.10.1
+seaborn
 matplotlib
 sklearn
 xlsxwriter
