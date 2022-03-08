@@ -159,6 +159,10 @@ Through this scenario, you created a data job, which:
 
 Congrats!
 
+## Authored By
+Alexander Avramov
 
+Data Analyst at VMware Sofia
 
-
+[GitHub](https://github.com/AlexanderAvramov) | 
+[LinkedIn](https://www.linkedin.com/in/alexander-avramov)
