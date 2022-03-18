@@ -104,7 +104,7 @@ We will cover:
 * https://medium.com/codex/step-by-step-guide-to-simple-and-multiple-linear-regression-in-python-867ac9a30298
 
 ### VDK 
-Versatile Data Kit feature allows you to implement automated pull ingestion and batch data processing.
+The Versatile Data Kit framework allows you to implement automated pull ingestion and batch data processing.
 
 #### Create the Data Job Files
 
@@ -137,13 +137,13 @@ vdk deploy
 ```
 
 ## Exercises
-Please open up MyBinder to get started on the exercises!
+Please open up MyBinder to get started on the exercises! 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AlexanderAvramov/amld-linear-regression-example-empty/HEAD?labpath=setup.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/versatile-data-kit-amld/linear-regression-example-unsolved/HEAD?labpath=setup.ipynb)
 
 You can find the **solved** MyBinder environment here:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AlexanderAvramov/amld-linear-regression-example/HEAD?labpath=setup.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/versatile-data-kit-amld/linear-regression-example-solved/HEAD?labpath=setup.ipynb)
 
 For more information on MyBinder, please visit:
 

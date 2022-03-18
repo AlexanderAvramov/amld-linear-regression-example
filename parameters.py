@@ -32,13 +32,13 @@ parameters = {
     'heated_seats': dict(
         label="Do We Plan on Using the Heated Seats? (1 = Yes, 0 = No)",
         value=1,
-        min_value=0,
-        max_value=1
+        max_value=1,
+        min_value=0        
     ),
     'eco_mode': dict(
         label="Do We Plan on Using the Eco Mode? (1 = Yes, 0 = No)",
         value=1,
-        min_value=0,
-        max_value=1
+        max_value=1,
+        min_value=0        
     )
 }
